@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Esmond Oise-Amu | Portfolio</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Esmond Oise-Amu</h1>
+    <p>Software Engineering Student • UI/UX Designer</p>
+  </header>
+
+  <nav>
+    <a href="#about">About</a>
+    <a href="#projects">Projects</a>
+    <a href="#contact">Contact</a>
+  </nav>
+
+  <section id="about">
+    <h2>About Me</h2>
+    <img src="your-photo.jpg" alt="Esmond Oise-Amu">
+    <p>
+      <!-- about-me.html content will be included here dynamically or through templating in real use -->
+    </p>
+  </section>
+
+  <section id="projects">
+    <h2>Projects</h2>
+    <p>Coming soon! I’ll be showcasing personal and academic projects here. Stay tuned.</p>
+  </section>
+
+  <section id="contact">
+    <h2>Contact Me</h2>
+    <p>Email: <a href="mailto:elakhe331@gmail.com">elakhe331@gmail.com</a></p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Esmond Oise-Amu. All rights reserved.</p>
+  </footer>
+</body>
+</html>
